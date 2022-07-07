@@ -70,7 +70,7 @@
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.25",
     "node-fetch": "^2.3.0",
     "prop-types": "^15.7.2",
